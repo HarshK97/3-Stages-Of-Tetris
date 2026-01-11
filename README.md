@@ -1,9 +1,10 @@
 # 🎮 Tetris in C++ — Terminal & OpenGL Versions
 
-A fun and educational implementation of **Tetris** in C++, featuring two versions:
+A fun and educational implementation of **Tetris** in C++, featuring three versions:
 
 - 🖥️ **Terminal Version**: Classic text-based gameplay in the terminal.
 - 🟦 **OpenGL Version**: Graphical version using OpenGL and GLFW for a modern twist.
+- 🤖 **Genetic Algorithm AI**: Implementation of Genetic Algorithm in Tetris for playing the game and understanding how AI evolves
 
 ---
 
